@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm a student
+🎓 Student at Shri Madhwa Vadiraja Institute of Technology and Management
+
+🤖 AI & Data Science Enthusiast exploring Machine Learning and Data Analytics
+
+🐍 Proficient in Python and popular ML libraries like scikit-learn, pandas, NumPy and TensorFlow
+
+💡 Building projects: Career Recommender System, Handwritten Mathematical Symbol Recognition, Criminal Face Detection
+
+🌱 Always learning new technologies and improving problem-solving skills
+
+📊 Passionate about data-driven solutions that make an impact
 
 
 ## 🌐 Socials:
